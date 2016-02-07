@@ -1,0 +1,8 @@
+tech-c:
+  - admin@freifunk-mv.de
+  asn: 64889
+networks:
+  ipv4:
+    - 10.11.240.0/20
+  ipv6:
+    - fec0::a:cf:0:46/48
